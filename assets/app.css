@@ -1,0 +1,34 @@
+.primary_section{
+    background-color: dodgerblue;
+    color: white;
+}
+
+.secondary_section{
+    background-color: lightblue;
+}
+
+.card{
+    padding: 20px;
+    margin:10px;
+}
+
+.tab{
+    color: darkblue;
+}
+
+a{
+    color:darkblue;
+}
+
+.big_stat{
+    font-size: 30px;
+    font-weight: bold;
+    color:darkblue;
+}
+
+.text_img{
+    width:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
